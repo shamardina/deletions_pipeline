@@ -1,0 +1,9 @@
+OUTPUT="/path/to/output"
+LIST="../input/processing.txt"  # dummy file
+MANIFEST="../input/included_samples_info.txt"  # dummy file
+DATATABLE="../input/data_table.txt"  # dummy file
+RESOURCES="/path/to/resources"
+NJOBS=16
+HADOOPOUTPUT="/path/to/hadoop"
+AVRO="/path/to/data.AVRO"
+STUDYCONF="/path/to/data.studyConfiguration"
