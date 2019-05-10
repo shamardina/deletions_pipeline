@@ -13,4 +13,4 @@ Steps:
 
 ### Information about pipeline and output
 
-See [README.txt](../blob/master/README.txt) for description and details.
+See [README.txt](README.txt) for description and details.
